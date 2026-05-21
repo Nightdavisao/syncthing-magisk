@@ -5,7 +5,7 @@ If the apps are working for your use-case, that's great, you can keep using them
 
 ## Installation
 
-1.  Download the latest module `zip` file。
+1.  Download the latest module `zip` file.
 2.  Open the Magisk app.
 3.  Go to `Modules` -> `Install from storage`.
 4.  Select the `zip` file you downloaded.
