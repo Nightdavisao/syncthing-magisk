@@ -18,6 +18,5 @@ If the apps are working for your use-case, that's great, you can keep using them
 * Wi-fi connection sometimes dies when syncing a lot of files (that's probably only a thing on my side. Though I don't have any other rooted device to reproduce this)
 * Syncthing is running on root. Spicy...
 
-### Accessing the Syncthing Web UI
-
+## Accessing the Syncthing Web UI
 Once Syncthing is running, you can access its web management interface by opening `http://127.0.0.1:8384` in a browser on your phone.
