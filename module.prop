@@ -1,0 +1,6 @@
+id=syncthing-magisk
+name=Syncthing for Magisk
+version=v0.1
+versionCode=1
+author=Nightdavisao
+description=Runs Syncthing as a persistent service at boot with access for the internal storage and SD card.
